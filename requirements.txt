@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+moviepy
+pytesseract
+pillow
+numpy
+librosa
+soundfile
+speechrecognition
